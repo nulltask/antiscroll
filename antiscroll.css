@@ -10,6 +10,9 @@
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, .6);
+  border-width: 1px;
   position: absolute;
   opacity: 0;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
